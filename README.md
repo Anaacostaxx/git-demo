@@ -2,10 +2,6 @@
 
 This is the first file in this repo (:
 
-##Ipsum Below
+##Website Contents
 
-Hola, adios.
-
-Hola de nuevo.
-
-Holaaa.
+1.index.html
